@@ -1,5 +1,3 @@
-package data;
-
 import java.util.Stack;
 import java.util.LinkedList;
 public class App {
